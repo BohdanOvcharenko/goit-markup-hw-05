@@ -569,7 +569,7 @@ input {
 
 /* #region overlay */
 
-/* .modal-overlay {
+.modal-overlay {
     background: rgba(46, 47, 66, 0.4);
 
     position: fixed;
@@ -585,7 +585,7 @@ input {
     opacity: 0;
     pointer-events: none;
     transition: opacity 250ms ease-in-out;
-} */
+}
 
 .modal-overlay.is-open {
     opacity: 1;
