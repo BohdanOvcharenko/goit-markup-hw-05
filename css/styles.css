@@ -626,7 +626,7 @@ gap: 16px;
 
 .modal-button-x:hover,
 .modal-button-x:focus+.modal-button-x-svg{
-    fill: #ffffff
+    fill: #ffffff;
 }
 
 .modal-title{
